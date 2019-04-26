@@ -10,9 +10,9 @@ I wanted to build a user-friendly application that would enable users to easily 
 <p align="center">
   <img width="600" src="tweet.png">
 </p>
-<p align="center">
+<h4 align="center">
   Tweet response (topic: gun control)
-</p>
+</h4>
 
 
  
