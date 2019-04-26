@@ -1,4 +1,4 @@
-# Congressional Donations TwitterBot
+# Congressional Campaign Contribution TwitterBot
 A twitter bot that informs twitter users about their congression leader's politial donations. 
 
 ## The Big Idea:
