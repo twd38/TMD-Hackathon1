@@ -11,8 +11,8 @@ I wanted to build a user-friendly application that would enable users to easily 
   <img width="600" src="tweet.png">
 </p>
 
-<figure>
-  <img src="tweet.png/350x150" alt="sample image">
+<figure align="center">
+  <img width="600" src="tweet.png">
   <figcaption>This caption should be used to describe the image.</figcaption>
 </figure>
 
