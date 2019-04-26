@@ -8,6 +8,9 @@ These days, it seems like almost anything is for sale, including our democracy. 
 I wanted to build a user-friendly application that would enable users to easily access data on campaign contributions and legislation votes. Twitter, a social media platform that has recently risen in political influence, seemed to be a natural platform to interface with users and seamlessly provide the electorate with information about their state legislators. I built a twitter bot that located users who have tweets with hashtags of political topics like, ‘2nd amendment’ or 'abortion', and would then tweet back data visualizations of that user’s state legislators campaign contributions by parties both for and against that political topic.
 
 <div style="text-align:center"><img src="tweet.png" width="600" ></div>
+<p align="center">
+  <img width="460" height="300" src="tweet.png">
+</p>
 
  
 ## Technical Aspects
