@@ -10,11 +10,10 @@ I wanted to build a user-friendly application that would enable users to easily 
 <p align="center">
   <img width="600" src="tweet.png">
 </p>
+<p align="center">
+  Tweet response (topic: gun control)
+</p>
 
-<figure align="center">
-  <img width="600" src="tweet.png">
-  <figcaption>This caption should be used to describe the image.</figcaption>
-</figure>
 
  
 ## Technical Aspects
